@@ -8,7 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
     - [Run live-preview](#run-live-preview)
-    - [Kill the grip proccess](#kill-the-grip-proccess)
+    - [Kill the grip process](#kill-the-grip-process)
 
 <!-- markdown-toc end -->
 - - -
@@ -60,7 +60,7 @@ M-x markdown-preview-grip
 the browser will start automatically. and rerender the page if you modify and save the markdown file
 
 
-## Kill the grip proccess
+## Kill the grip process
 - in **markdown-mode** press <kbd>, p k</kbd>
 - or you can call kill-markdown-preview-process command
 ```
